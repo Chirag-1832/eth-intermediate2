@@ -38,6 +38,7 @@ If you prefer to use a different version or host the library locally, update the
 - Make sure MetaMask is properly set up and connected to the correct Ethereum network (e.g., Mainnet, Rinkeby,localganache etc.).
 - Replace the `Address` variable in the JavaScript code with the actual address of your deployed smart contract.
 - Replace the `ABI` variable in the JavaScript code with the actual ABI of your deployed smart contract.
+- TO run the above code you have to fist write the command npm install express
 
 ## Author
 
